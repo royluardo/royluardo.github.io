@@ -1,22 +1,21 @@
 # Site settings
-title: Roy Luardo                               #updated -royzkie
-SEOTitle: Roy Luardo Site              #updated -royzkie
-header-img: img/home-bg-art.jpg
-email: royluardo@gmail.com                      #updated -royzkie
-description: "All about me and more!"            #updated -royzkie
-keyword: "royzkie, royluardo, roy, luardo, engineering, blog, design"     #updated -royzkie
-url: "https://royluardo.github.io"              #updated -royzkie
+title: Roy Luardo
+SEOTitle: Roy Luardo Site
+header-img: img/home-bg.jpg
+email: royluardo@gmail.com
+description: "All about me and more!"
+keyword: "royzkie, royluardo, roy, luardo, engineering, blog, design"
+url: "https://royluardo.github.io"
 baseurl: ""
 
-# SNS settings
+# Social Media
 RSS: true
-github_username:    royluardo
-twitter_username:  royluardo
-linkedin_username:  royluardo
+github_username: royluardo
+twitter_username: royluardo
+linkedin_username: royluardo
 facebook_username: royluardo
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
 paginate: 10
@@ -36,26 +35,20 @@ kramdown:
 input: GFM                            # use Github Flavored Markdown !important
 
 # Disqus settings
-disqus_username: royluardo      #updated -royzkie
+disqus_username: royluardo
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            #updated -royzkie
-ga_domain: royluardo.github.io            #updated -royzkie
-
-
+ga_track_id: 'UA-49627206-1'
+ga_domain: royluardo.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "All about me and more!"         #updated -royzkie
+sidebar-about-description: "All about me and more!" 
 sidebar-avatar: /img/avatar-wb.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
-
-
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
