@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: page
-description: All blogs
+description: All posts
 header-img: "img/home-bg-o.jpg"
 ---
 
@@ -10,7 +10,7 @@ header-img: "img/home-bg-o.jpg"
   <div class="row">
 <div class="one-tag-list">
     
-    <h2 class="header" itemprop="headline">All posts</h2>
+    <h2 class="header" itemprop="headline">Blog list</h2>
 
       {% for post in site.posts %}
       {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
