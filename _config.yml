@@ -8,16 +8,16 @@ keyword: "royzkie, royluardo, roy, luardo, engineering, blog, design"     #updat
 url: "https://royluardo.github.io"              #updated -royzkie
 baseurl: ""
 
-#below not yet updated -royzkie
+
 
 # SNS settings
-RSS: false
-weibo_username:     wudalanggd
-csdn_username:     wudalang_gd
-github_username:    wblearn
-#twitter_username:  wblearn
-jianshu_username:  48599dc7ef1b
-# linkedin_username:  firstname-lastname-idxxxx
+RSS: true
+# weibo_username:     wudalanggd
+# csdn_username:     wudalang_gd
+github_username:    royluardo
+twitter_username:  royluardo
+# jianshu_username:  48599dc7ef1b
+# linkedin_username:  roy-luardo-idxxxx
 
 
 
@@ -48,12 +48,12 @@ kramdown:
 
 
 # Disqus settings
-disqus_account: "royluardo"
+disqus_account: "royluardo"     #updated -royzkie
 
 # Duoshuo settings
-duoshuo_username: wblearnblog
+# duoshuo_username: wblearnblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 # LiveRe setttings
