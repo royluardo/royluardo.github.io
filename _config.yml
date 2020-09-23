@@ -13,6 +13,7 @@ RSS: true
 github_username:    royluardo
 twitter_username:  royluardo
 linkedin_username:  royluardo
+facebook_username: royluardo
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
