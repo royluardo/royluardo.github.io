@@ -1043,7 +1043,7 @@ figure{
     margin:0
 }
 img{
-    vertical-align:middle
+    vertical-align:top
 }
 .carousel-inner>.item>a>img,.carousel-inner>.item>img,.img-responsive,.thumbnail a>img,.thumbnail>img{
     display:block;
