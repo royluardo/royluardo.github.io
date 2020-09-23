@@ -20,9 +20,6 @@ header-img: "img/home-bg-o.jpg"
 </header>
 
 <!-- Main Content -->
-<div class="container">
-
-	
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -59,7 +56,4 @@ header-img: "img/home-bg-o.jpg"
     </li>
     {% endif %}
 </ul>
-{% endif %}	
-	
-	
-</div>
+{% endif %}
