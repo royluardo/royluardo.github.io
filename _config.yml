@@ -1,14 +1,14 @@
 # Site settings
-title: Wblearn Blog
-SEOTitle: Wblearn的博客 | Wblearn Blog
+title: Roy luardo
+SEOTitle: Royluardo | Royzkie Blog
 header-img: img/home-bg-art.jpg
-email: 1275660493@qq.com
-description: "@wblearn,不要让任何事情成为你不去学习的理由！"
-keyword: "wblearn, @wblearn, wblearn的博客,wblearn Blog, 博客, 个人网站, 互联网"
-url: "http://wblearn.github.io/"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+email: royluardo@gmail.com
+description: "All about me and more"
+keyword: "royzkie, royluardo, roy, luardo, engineering, blog, design"
+url: "https://royluardo.github.io"
+baseurl: ""
 
-
+#below not yet updated -royzkie
 
 # SNS settings
 RSS: false
