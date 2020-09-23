@@ -9,7 +9,7 @@ layout: default
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="site-heading" id="tag-heading">
                     <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
-			<span class="subheading"><time itemprop='uploadDate' content='{{ page.date }}'>{{ page.date | date: '%d %B %Y'}}</time></span>
+			<span class="subheading">{{ page.date | date: '%d %B %Y'}}></span>
                 </div>
             </div>
         </div>
