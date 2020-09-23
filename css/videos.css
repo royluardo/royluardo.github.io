@@ -1,6 +1,6 @@
 .videos img {
   width: 100%;
-  border-radius: 25px;
+  /* border-radius: 25px; */
   box-shadow: 1px 1px 7px 1px #000;
   border: 1px solid #B9B9B9
 }
