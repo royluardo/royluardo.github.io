@@ -23,7 +23,7 @@ header-img: "img/home-bg-o.jpg"
       {% endif %}
 
           <li>
-            <div class="post-preview"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+            <div class="post-preview"><a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title">{{ post.title }}</h2></a></div>
           </li>
       {% if forloop.last %}
         </ul>
