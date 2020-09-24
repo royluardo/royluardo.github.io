@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "我的2016"
+title:      "Lorem ipsum dolor sit amet"
 date:       2016-12-31 00:00:00
-author:     "wblearn"
+author:     "Royzkie"
 header-img: "img/post-zj-2016.jpg"
 tags:
-    - 2016总结
-    - 闲谈
+    - 
+    - 
     - 
 ---
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id tellus non nibh fringilla malesuada. Vivamus tincidunt odio dignissim, lacinia ligula quis, vehicula ipsum. Phasellus blandit urna nec rutrum vulputate. Curabitur massa lorem, condimentum nec ex in, placerat tristique metus. Vivamus nec dapibus metus. Nullam quis ipsum mattis sem condimentum fringilla. Vivamus ut neque sed nibh auctor fringilla et quis quam. Sed libero leo, laoreet facilisis erat at, convallis fermentum ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla hendrerit malesuada consequat.</p>
