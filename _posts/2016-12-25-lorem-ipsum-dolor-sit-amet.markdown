@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "我的博客搭建之git的使用"
+title:      "Lorem ipsum dolor sit amet"
 date:       2016-12-15 00:00:00
-author:     "wblearn"
+author:     "Royzkie"
 header-img: "img/post-bg-alitrip.jpg"
 tags:
-    - git
-    - 博客
+    - 
+    - 
     - 
 ---
 
