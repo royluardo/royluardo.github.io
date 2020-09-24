@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "我的独立博客(第一篇)"
+title:      "Lorem ipsum dolor sit amet"
 date:       2016-12-23 00:00:00
-author:     "wblearn"
+author:     "Royzkie"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - 闲谈
+    -
     - 
     - 
 ---
