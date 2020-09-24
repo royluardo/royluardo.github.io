@@ -10,41 +10,12 @@ tags:
     - 
 ---
 
-![](http://img.blog.csdn.net/20170101121417088?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3VkYWxhbmdfZ2Q=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id tellus non nibh fringilla malesuada. Vivamus tincidunt odio dignissim, lacinia ligula quis, vehicula ipsum. Phasellus blandit urna nec rutrum vulputate. Curabitur massa lorem, condimentum nec ex in, placerat tristique metus. Vivamus nec dapibus metus. Nullam quis ipsum mattis sem condimentum fringilla. Vivamus ut neque sed nibh auctor fringilla et quis quam. Sed libero leo, laoreet facilisis erat at, convallis fermentum ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla hendrerit malesuada consequat.</p>
 
-**有时候往GitHub上提交东西的时候会因为remote repository上有东西更新了但是local repository 没有更新而造成提交失败**
+<p>In in bibendum velit. Donec feugiat magna id ornare imperdiet. Phasellus eleifend quam vitae arcu auctor, iaculis feugiat tellus mollis. Etiam scelerisque augue pellentesque arcu posuere, in condimentum libero varius. Aenean magna arcu, venenatis ut placerat et, cursus ut orci. Suspendisse fermentum placerat elit eget dictum. Aenean ornare pretium enim a aliquam.</p>
 
+<p>Duis venenatis eget mi at mollis. Vivamus sodales odio felis, lacinia gravida urna lacinia in. Nam laoreet enim non nunc hendrerit sodales. Integer venenatis fringilla ex, a commodo libero sollicitudin id. Quisque dictum dignissim purus, ut hendrerit enim dignissim nec. Etiam molestie mauris vel bibendum luctus. Donec eu nibh aliquam, mollis urna non, molestie dui. Mauris tellus enim, finibus id massa faucibus, facilisis lobortis leo. In hac habitasse platea dictumst. Phasellus lobortis nibh vitae ipsum venenatis, a fermentum ipsum varius. Suspendisse auctor convallis velit ac vehicula.</p>
 
-有如下几种解决方法：
+<p>Sed luctus quam non urna tempus, in tincidunt tortor tempor. Suspendisse elementum libero a erat pellentesque, a euismod arcu tempus. Quisque vitae risus et arcu accumsan pharetra. Nam tempus massa eros, sed pharetra neque consectetur nec. Integer et malesuada lacus. Mauris sollicitudin cursus eros et semper. Proin non ex eget lacus vehicula bibendum non et risus. Morbi molestie enim in quam ultrices aliquet. Morbi elementum mollis elit sit amet pharetra. Nulla finibus tortor sit amet est rhoncus, sit amet rutrum tortor vehicula.</p>
 
-**1.使用强制push的方法：**
-
-```
-$ git push -u origin master -f 
-```
-
-这样会使远程修改丢失，一般是不可取的，尤其是多人协作开发的时候。
-
-**2.push前先将远程repository修改pull下来**
-
-```
-$ git pull origin master
-```
-
-```
-$ git push -u origin master
-```
-
-**3.若不想merge远程和本地修改，可以先创建新的分支：**
-
-```
-$ git branch [name]
-```
-
-然后push
-
-```
-$ git push -u origin [name]
-```
-
-关于git的更多用法，请看[这里](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+<p>Integer ac orci a lacus vulputate bibendum. In hac habitasse platea dictumst. Donec ut dignissim ante. Sed egestas lacus at ex suscipit rhoncus. Integer laoreet mi sed varius porttitor. Vivamus congue dolor mauris, accumsan malesuada purus luctus a. Aliquam sodales tellus dolor, at porttitor diam rutrum eu. Sed sit amet pellentesque risus, ut varius arcu. Donec imperdiet fringilla nisi, eget viverra eros pretium ac.</p>
