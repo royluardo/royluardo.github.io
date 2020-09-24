@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "redis集群报错Node is not empty "
+title:      "Lorem ipsum dolor sit amet"
 date:       2016-8-08 00:00:00
-author:     "wblearn"
+author:     "Royzkie"
 header-img: "img/contact-bg.jpg"
 tags:
-    - redis
-    - 集群
+    - 
+    - 
     - 
 ---
 
