@@ -20,7 +20,7 @@ tags:
 <p>Here goes:</p>
 
 <ul>
-<li>1. Download [Express.zip][1].</li>
+ <li>1. Download <a href="https://goo.gl/gKEPIv" target="_blank">Express.zip</a>.</li>
 <li>2. Extract contents to C:\Users\username\appdata\roaming\autodesk\autocad mechanical 2014\r19.1\enu\support\express (Make sure hidden files are shown in Folder Options to access "AppData" folder).</li>
 <li>3. Right Click "express" folder then click "Properties" > "General" tab > "Attributes" then uncheck "Read-only" then "Apply" (Apply to subfolders as well).</li>
 <li>4. Run AutoCAD Mechanical 2014.</li>
@@ -47,8 +47,5 @@ tags:
 <li>6. Let AutoCAD finish updating the changes that you've made.</li>
 <li>7. Verify that "Express Tools" is loaded ones you run AutoCAD.</li>
 
-<p>Why the need to install "Express Tools"? Here is a [list][2] of all the commands that can be found under "Express Tools" and how to use them.</p>
-
-[1]: http://goo.gl/gKEPIv
-[2]: http://goo.gl/s4ckKh
+<p>Why the need to install "Express Tools"? Here is a <a href="https://goo.gl/s4ckKh" target="_blank">list</a> of all the commands that can be found under "Express Tools" and how to use them.</p>
 
