@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "UML学习归纳整理"
+title:      "Lorem ipsum dolor sit amet"
 date:       2016-11-27 00:00:00
-author:     "wblearn"
+author:     "Royzkie"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - UML
+    - 
     - 
     - 
 ---
