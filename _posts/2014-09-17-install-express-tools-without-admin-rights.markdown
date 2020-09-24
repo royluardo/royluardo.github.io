@@ -20,7 +20,7 @@ tags:
 <p>Here goes:</p>
 
 <ul>
- <li>1. Download <a href="https://goo.gl/gKEPIv" target="_blank">Express.zip</a>.</li>
+<li>1. Download <a href="https://goo.gl/gKEPIv" target="_blank">Express.zip</a>.</li>
 <li>2. Extract contents to C:\Users\username\appdata\roaming\autodesk\autocad mechanical 2014\r19.1\enu\support\express (Make sure hidden files are shown in Folder Options to access "AppData" folder).</li>
 <li>3. Right Click "express" folder then click "Properties" > "General" tab > "Attributes" then uncheck "Read-only" then "Apply" (Apply to subfolders as well).</li>
 <li>4. Run AutoCAD Mechanical 2014.</li>
@@ -35,6 +35,7 @@ tags:
 <li>13. Add 2 files "acettest.fas" and "acetultil.fas" which can be found inside the express folder.</li>
 <li>14. Close "Load/Unload Applications" menu then restart AutoCAD.</li>
 <li>15. Check "Express" menu if its loaded and try the command if they are working.</li>
+</ul>
 
 <p>And just in case you have admin rights to your computer, here's how to install AutoCAD's "Express Tools" the normal way:</p>
 
@@ -46,6 +47,7 @@ tags:
 <li>5. Click on the cross to check it (Green) then click "Update".</li>
 <li>6. Let AutoCAD finish updating the changes that you've made.</li>
 <li>7. Verify that "Express Tools" is loaded ones you run AutoCAD.</li>
+</ul>
 
 <p>Why the need to install "Express Tools"? Here is a <a href="https://goo.gl/s4ckKh" target="_blank">list</a> of all the commands that can be found under "Express Tools" and how to use them.</p>
 
