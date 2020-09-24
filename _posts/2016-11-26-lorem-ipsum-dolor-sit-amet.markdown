@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "我的Web开发实战总结(一)"
+title:      "Lorem ipsum dolor sit amet"
 date:       2016-11-26 00:00:00
-author:     "wblearn"
+author:     "Royzkie"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - Web
+    - 
     - 
     - 
 ---
