@@ -41,7 +41,7 @@ tags:
 
 <ul>
 <li>1. Verify that AutoCAD is already installed in your computer, go to "Control Panel".</li>
-<li>>2. Find AutoCAD, right click and select "Uninstall/Change".</li>
+<li>2. Find AutoCAD, right click and select "Uninstall/Change".</li>
 <li>3. AutoCAD install will start up, select "Add or Remove Features" from the pop-upped menu.</li>
 <li>4. Click through the screen then scroll to a list of features and you would find that "Express Tools" is crossed out (Red).</li>
 <li>5. Click on the cross to check it (Green) then click "Update".</li>
