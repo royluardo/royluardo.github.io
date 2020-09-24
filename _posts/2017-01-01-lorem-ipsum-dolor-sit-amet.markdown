@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "push本地代码到github出错"
+title:      "Lorem ipsum dolor sit amet"
 date:       2017-1-1 00:00:00
-author:     "wblearn"
+author:     "Royzkie"
 header-img: "img/post-bg-alitrip.jpg"
 tags:
-    - git
+    - 
     - 
     - 
 ---
