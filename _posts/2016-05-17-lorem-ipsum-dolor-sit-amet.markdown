@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "redis的安装，类库及demo "
+title:      "Lorem ipsum dolor sit amet"
 date:       2016-5-17 00:00:00
-author:     "wblearn"
+author:     "Royzkie"
 header-img: "img/contact-bg.jpg"
 tags:
-    - redis
+    - 
     - 
     - 
 ---
