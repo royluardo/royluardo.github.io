@@ -9,24 +9,12 @@ tags:
     - 
     - 
 ---
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id tellus non nibh fringilla malesuada. Vivamus tincidunt odio dignissim, lacinia ligula quis, vehicula ipsum. Phasellus blandit urna nec rutrum vulputate. Curabitur massa lorem, condimentum nec ex in, placerat tristique metus. Vivamus nec dapibus metus. Nullam quis ipsum mattis sem condimentum fringilla. Vivamus ut neque sed nibh auctor fringilla et quis quam. Sed libero leo, laoreet facilisis erat at, convallis fermentum ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla hendrerit malesuada consequat.</p>
 
+<p>In in bibendum velit. Donec feugiat magna id ornare imperdiet. Phasellus eleifend quam vitae arcu auctor, iaculis feugiat tellus mollis. Etiam scelerisque augue pellentesque arcu posuere, in condimentum libero varius. Aenean magna arcu, venenatis ut placerat et, cursus ut orci. Suspendisse fermentum placerat elit eget dictum. Aenean ornare pretium enim a aliquam.</p>
 
+<p>Duis venenatis eget mi at mollis. Vivamus sodales odio felis, lacinia gravida urna lacinia in. Nam laoreet enim non nunc hendrerit sodales. Integer venenatis fringilla ex, a commodo libero sollicitudin id. Quisque dictum dignissim purus, ut hendrerit enim dignissim nec. Etiam molestie mauris vel bibendum luctus. Donec eu nibh aliquam, mollis urna non, molestie dui. Mauris tellus enim, finibus id massa faucibus, facilisis lobortis leo. In hac habitasse platea dictumst. Phasellus lobortis nibh vitae ipsum venenatis, a fermentum ipsum varius. Suspendisse auctor convallis velit ac vehicula.</p>
 
-<div>
-<h2>写在前面</h2>
-	<p>现在是凌晨1点多了，我的github博客终于花了一个晚上搭建好了。在此之前，一直使用CSDN和简书，但听很多人说作为一名程序员，拥有自己的个人博客是很好的事情(有个属于自己的小窝放简历、项目资料…)。也常常听人说，第三方的博客局限性太多，
-	而自己如果又不想管理自己的私有网站，github是个很不错的选择。最近又来了兴趣，所幸花一个晚上搞起来。我的github独立博客开张啦^-^</p>
+<p>Sed luctus quam non urna tempus, in tincidunt tortor tempor. Suspendisse elementum libero a erat pellentesque, a euismod arcu tempus. Quisque vitae risus et arcu accumsan pharetra. Nam tempus massa eros, sed pharetra neque consectetur nec. Integer et malesuada lacus. Mauris sollicitudin cursus eros et semper. Proin non ex eget lacus vehicula bibendum non et risus. Morbi molestie enim in quam ultrices aliquet. Morbi elementum mollis elit sit amet pharetra. Nulla finibus tortor sit amet est rhoncus, sit amet rutrum tortor vehicula.</p>
 
-<h2>如果你也想搭建自己的博客</h2>
-	<p>我先是在ubuntu上搭建，但问题多多，干脆就放弃了，于是在windows下搭建简单多了，也没出什么问题。我用的是<a href="http://huangxuan.me/">博主Hux的模板</a><br>
-	给出一些链接： <br>
-		https://dailc.github.io/2016/10/29/jekyllbuild.html#rubychangeresource <br>
-		https://github.com/huxpro/huxpro.github.io/ <br>
-		http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html <br>
-		整个过程都比较简单，作为菜鸟的我就可以建出来，相信对你也不是难事！
-	</p>
-	
-<h2>写在最后</h2>	
-	<p>还有一个星期就2017了，希望2017自己能不断学习，不断进步，遇见未来更好的自己。</p>
- 
-</div>
+<p>Integer ac orci a lacus vulputate bibendum. In hac habitasse platea dictumst. Donec ut dignissim ante. Sed egestas lacus at ex suscipit rhoncus. Integer laoreet mi sed varius porttitor. Vivamus congue dolor mauris, accumsan malesuada purus luctus a. Aliquam sodales tellus dolor, at porttitor diam rutrum eu. Sed sit amet pellentesque risus, ut varius arcu. Donec imperdiet fringilla nisi, eget viverra eros pretium ac.</p>
