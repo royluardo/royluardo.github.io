@@ -21,11 +21,12 @@ tags:
 <p>Exceptional productivity</p>
 
 <p>GStarICAD offers smooth Microsoft Windows integration plus many unique productivity features, including the ability to Multiple open drawings (MDI) at once; a Drawing Explorer that lets you review and exchange drawing content with drag-and-drop ease; and visual customization of menus and toolbars -- no programming required! And thanks to its ActiveX integration, you can insert GStarICAD drawings (or just parts of them) into a Microsoft Office application file or a Visio 2000 Technical Edition schematic.</p>
+
 <span>Open Communication</span>
 <span>Import-Export of DWG files (opendwg), DXF and SCR (script) files;</span>
 <span>Import of mnu (menu) and dcl (dialog box) files;</span>
 <span>Export of WMF, EMF (Enhanced Metafile) files and SLD (slides);</span>
-<span>Reading of BMP, GIF, JPG, TIF, PCX images within DWG files;</span>
+<span>Reading of BMP, GIF, JPG, TIF, PCX images within DWG files;</span><br>
 
 <p>Third Party Applications</p>
 
