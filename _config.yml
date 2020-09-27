@@ -5,7 +5,7 @@ header-img: img/home-bg-art.jpg
 email: royluardo@gmail.com
 description: "All about me and more!"
 keyword: "royzkie, royluardo, roy, luardo, engineering, blog, design"
-url: "https://luardonet.github.io"
+url: "https://royluardo.com"
 baseurl: ""
 
 # Social Media
@@ -79,7 +79,7 @@ defaults:
 friends: [
     {
         title: "Roy Luardo",
-        href: "https://royluardo.com"
+        href: "https://luardo.net"
     },{
         title: "Kate Luardo",
         href: "https://kateluardo.com"
