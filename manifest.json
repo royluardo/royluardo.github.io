@@ -1,5 +1,7 @@
 {
- "name": "App",
+ "name": "Roy Luardo Site",
+ "short_name": "royluardo",
+ "description": "All about me!",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
