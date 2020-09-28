@@ -38,8 +38,8 @@ input: GFM                            # use Github Flavored Markdown !important
 disqus_username: royluardo
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'
-ga_domain: royluardo.github.io
+ga_track_id: 'UA-64364847-1'
+ga_domain: royluardo.com
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
