@@ -4,7 +4,7 @@
       {% if site.copyright %}
         {{ site.copyright | markdownify }}
       {% else %}
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+        <p>Copyright &copy; <a href="/">{{ site.title }}</a> {{ site.time | date: '%Y' }}</p>
       {% endif %}
     </div>
   </div>
