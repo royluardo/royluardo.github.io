@@ -83,3 +83,7 @@ defaults:
     values:
       layout: post
       read_time: true
+disqus:
+    shortname: royluardo
+    
+google_analytics: UA-64364847-1
