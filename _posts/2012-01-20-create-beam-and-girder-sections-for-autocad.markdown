@@ -1,9 +1,9 @@
 ---
-layout:     post
 title:      "Create beam and girder sections for AutoCAD"
 date:       2012-02-20 12:32:18
-author:     "Royzkie"
 header-img: "img/contact-bg.jpg"
+categories:
+    - AutoCAD
 tags:
     - App
     - Download
