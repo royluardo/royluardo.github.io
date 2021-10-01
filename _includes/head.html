@@ -41,11 +41,13 @@ var numBAH = (new Date()).getTime();
 <link href="/css/hux-blog.min.css?v=+ numBAH +" rel="stylesheet" type="text/css" />
 <link href="/css/syntax.css?v=+ numBAH +" rel="stylesheet" type="text/css" />
     
-        <SCRIPT LANGUAGE="JavaScript">
-    var numBAH = Math.floor(Math.random()*10000);
+<script language="javascript" type="text/javascript">
 
-    document.write('<LI' + 'NK HREF="./path/to/style.css?cacheBusting='+numBAH+'" rel="stylesheet">');
-    </SCRIPT>
+window.onload = function() {
+    document.getElementById("msg1").innerHTML = document.URL.toString();
+}
+
+</script>
     
 
     <!-- Custom Fonts -->
