@@ -33,14 +33,12 @@
     <!-- Canonical URL -->
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/css/hux-blog.min.css" | prepend: site.baseurl }}">
-
-    <!-- Pygments Github CSS -->
-    <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
+<script>
+document.write('<link href="/css/bootstrap.min.css?r='+ (new Date()).getTime() +'" rel="stylesheet" type="text/css" />');
+document.write('<link href="/css/hux-blog.min.css?r='+ (new Date()).getTime() +'" rel="stylesheet" type="text/css" />');
+document.write('<link href="/css/syntax.css?r='+ (new Date()).getTime() +'" rel="stylesheet" type="text/css" />');
+</script>
+    
 
     <!-- Custom Fonts -->
     <!-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
