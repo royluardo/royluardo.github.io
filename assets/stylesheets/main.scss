@@ -8,6 +8,10 @@ a {
 	text-decoration: none;
 }
 
+.more-link {
+    color: #00adb5;
+}
+
 // Theme skin
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
