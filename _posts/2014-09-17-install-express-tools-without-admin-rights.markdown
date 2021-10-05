@@ -4,7 +4,7 @@ title:  "How to install Express Tools without admin rights"
 date:   2014-09-17 10:30:10
 author: "Royzkie"
 header-img: "img/post-bg-rwd.jpg"
-categories: Software
+background: "/img/post-bg-rwd.jpg"
 tags:
  - App
  - Tutorial
