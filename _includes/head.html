@@ -27,7 +27,7 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/img/ms-icon-144x144.png">
   
-  <link rel="stylesheet" href="{{ '/assets/style.css?v=' | append: date: "%Y%m%d%H%M" | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css?v=' | date: "%Y%m%d%H%M" | relative_url }}">
   
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
