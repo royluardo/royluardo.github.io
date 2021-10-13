@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Sample Vid</title>
+    <title>Spectre</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="robots" content="noindex" />
 	<link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon" />
@@ -67,13 +67,9 @@
 var player = jwplayer("apicodes-player");
 player.setup({
   sources : [{
-    "file" : "http://www.deadlyblogger.com/NewRelease/austin2.mp4",
-    "type" : "video/mp4",
+    "file" : "http://deadlyblogger.com/NewRelease/spectre.webm",
+    "type" : "video/webm",
     "label" : "720p"
-  }, {
-    "file" : "http://www.deadlyblogger.com/NewRelease/austin2.mp4",
-    "type" : "video/mp4",
-    "label" : "360p"
   }],
   aspectratio : "16:9",
   startparam : "start",
@@ -96,10 +92,10 @@ player.setup({
   }]
 });
 player.on("setupError", function() {
-  swal("Server Error!", "Please contact us to fix it asap. Thank you!", "error");
+  swal("Server Error!", "http://deadlyblogger.com/NewRelease/spectre.webm", "error");
 });
 player.on("error", function() {
-  swal("Server Error!", "Please contact us to fix it asap. Thank you!", "error");
+  swal("Server Error!", "http://deadlyblogger.com/NewRelease/spectre.webm", "error");
 });
 
 </script>
