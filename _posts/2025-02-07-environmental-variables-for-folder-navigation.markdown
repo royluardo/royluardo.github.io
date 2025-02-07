@@ -27,5 +27,7 @@ tags:
 <p>%USERPROFILE% - "C:\Users\{username}"</p>
 <p>%windir% - "C:\Windows"</p>
 
-<p>There are other environmental variables, but the ones listed above are the most common I remembered from the top of my head. For more examples and more information about environmental variables, <a href="http://tiny.cc/jp59001" target="_blank">check this out.</a></p>
+<p>There are other environmental variables, but the ones listed above are the most common I remembered from the top of my head. </p>
+    
+<p>For more examples and more information about environmental variables, <a href="http://tiny.cc/jp59001" target="_blank">check this out.</a></p>
 
