@@ -15,13 +15,12 @@ tags:
 
 <p>Copy the variables (\%xxxx\%) into the windows explorer address bar and hit enter.</p>
 
-<ul></ul>
+<code>
 <li>\%AppData\% - C:\Users\{username}\AppData\Roaming</li>
 <li>\%TEMP\% or \%TMP\% - C:\Users\{username}\AppData\Local\Temp</li>
 <li>\%windir\% - C:\Windows</li>
 <li>\%USERPROFILE\% - C:\Users\{username}</li>
 <li>\%SystemRoot\% - C:\Windows</li>
-</ul>
-
+</code>
 
 <p>There are other environmental variables, but the ones listed above are the most common I remembered from the top of my head.</p>
