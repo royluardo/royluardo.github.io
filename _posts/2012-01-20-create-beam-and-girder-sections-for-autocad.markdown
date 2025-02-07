@@ -4,7 +4,7 @@ title: "Create beam and girder sections for AutoCAD"
 subtitle: "the first iteration"
 date: 2012-02-20 12:32:18
 author: "Royzkie"
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "/img/post-bg-unix-linux.jpg"
 background: "/img/post-bg-unix-linux.jpg"
 tags:
     - App
