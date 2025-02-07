@@ -8,7 +8,7 @@ header-img: "img/post-bg-unix-linux.jpg"
 background: "/img/post-bg-unix-linux.jpg"
 tags:
     - Tutorial
-	- Reference
+    - Reference
 ---
 
 <h2>List of most common use environmental variables for folder navigation</h2>
