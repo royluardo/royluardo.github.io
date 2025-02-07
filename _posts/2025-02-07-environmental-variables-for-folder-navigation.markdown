@@ -13,7 +13,7 @@ tags:
 
 <h2>List of most common use environmental variables for folder navigation</h2>
 
-<p>Copy the variables (%xxxx%) into the windows explorer address bar and hit enter.</p>
+<p>Copy the variables (\%xxxx\%) into the windows explorer address bar and hit enter.</p>
 
 <ul></ul>
 <li>\%AppData\% - C:\Users\{username}\AppData\Roaming</li>
@@ -22,5 +22,6 @@ tags:
 <li>\%USERPROFILE\% - C:\Users\{username}</li>
 <li>\%SystemRoot\% - C:\Windows</li>
 </ul>
+
 
 <p>There are other environmental variables, but the ones listed above are the most common I remembered from the top of my head.</p>
