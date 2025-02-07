@@ -11,7 +11,7 @@ tags:
     - Reference
 ---
 
-<h2>List of most common use environmental variables for folder navigation</h2>
+<h2>List of most commonly used environmental variables for folder navigation in Windows:</h2>
 
 <p>Copy the variables (%xxxx%) into the windows explorer address bar and hit enter.</p>
 
