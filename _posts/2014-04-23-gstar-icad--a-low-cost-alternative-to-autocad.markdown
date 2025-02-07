@@ -3,7 +3,7 @@ layout:     post
 title:      "GStar ICAD - A Low cost alternative to AutoCAD"
 date:       2014-04-23 10:32:18
 author:     "Royzkie"
-header-img: "img/contact-bg.jpg"
+header-img: "/img/contact-bg.jpg"
 background: "/img/contact-bg.jpg"
 tags:
     - App
