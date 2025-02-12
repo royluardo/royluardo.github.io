@@ -33,8 +33,9 @@ tags:
 <li>Enter value for "Root Radius".</li>
 <li>Then click for Insertion Point.</li>
 </ol>
-	
-<p>For beam sizes and dimension reference download <a href="/download/SteelUK001202-.zip" target="_blank">UK Steel Sections</a>.</p>
+
+{% assign version =  "now" | date: "%Y%m%d%H%M"  %}
+<p>For beam sizes and dimension reference download <a href="{{'/download/SteelUK001202-.zip?v=0X' | append: version | relative_url }}" target="_blank">UK Steel Sections</a>.</p>
 	
 <p>To draw a PG (Plate Girder) or built up section instead of a standard beams, follow the instructions then input zero on the root radius. The zbeam will draw plate girder section 3 separate rectangles for the top and bottom flanges and web.</p>
 	
@@ -46,4 +47,4 @@ tags:
 
 <p>Tested and working on AutoCAD 2019. Will work on other versions of AutoCAD but your millage may vary. This program is provided as is. The coding I have done is very simple and is based on available tutorials and references.</p>
 
-<p>TL;DR: You can download all the steel section in AutoCAD <a href="/download/all steel sections.zip" target="_blank">here</a>.</p>
+<p>TL;DR: You can download all the steel section in AutoCAD <a href="{{'/download/all steel sections.zip?v=0X' | append: version | relative_url }}" target="_blank">here</a>.</p>
