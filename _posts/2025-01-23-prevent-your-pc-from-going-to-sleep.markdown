@@ -20,7 +20,8 @@ tags:
 
 <p>To do that automatically, here is a script (in exe format) that you can run to jiggle your mouse every minute interval.</p>
 
-<p>Download <a href="/download/NoSleep1m.zip" target="_blank">this</a>.
+{% assign version =  "now" | date: "%Y%m%d%H%M"  %}
+<p>Download <a href="{{'/download/NoSleep1m.zip?v=0X' | append: version | relative_url }}" target="_blank">this</a>.
 
 <p>Save this exe file to your startup folder and run it.</p>
 
