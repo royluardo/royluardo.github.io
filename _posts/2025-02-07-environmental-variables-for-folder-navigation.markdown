@@ -4,8 +4,8 @@ title: "Environmental Variables For Folder Navigation"
 subtitle: "Environmental Variables"
 date: 2025-02-06 14:30:00
 author: "Royzkie"
-header-img: "/img/post-bg-unix-linux.jpg"
-background: "/img/post-bg-unix-linux.jpg"
+##header-img: "/img/post-bg-unix-linux.jpg"
+##background: "/img/post-bg-unix-linux.jpg"
 tags:
     - Tutorial
     - Reference
