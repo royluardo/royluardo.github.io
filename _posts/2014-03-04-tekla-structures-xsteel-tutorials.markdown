@@ -59,4 +59,4 @@ tags:
 
 <p>Updated: 2025-02-13</p>
 
-<p><i></em>Note: PDF files are sourced through google search. Sharing for educational purposes only. No Copyright infringement intended.</i></p>
+<p><i>Note: PDF files are sourced through google search. Sharing for educational purposes only. No Copyright infringement intended.</i></p>
