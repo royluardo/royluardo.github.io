@@ -29,26 +29,34 @@ tags:
     <li>Increased creativity and productivity in 3D modeling</li>
 </ul>
 
-<p>Retool yourself for reliable modeling, efficient BIM workflow and openly transparent project communication. Realize your world-class ideas and download Tekla Structures today!</p>
+<p>Retool yourself for reliable modeling, efficient BIM workflow and openly transparent project communication. Realize your world-class ideas and learn Tekla Structures today!</p>
 
-<p><a href="https://www.tekla.com/" target="_blank">Read more or download.</a></p>
-
-<p>Tutorials:</p>
+{% assign version =  "now" | date: "%Y%m%d%H%M"  %}
+<p>Tutorials: Tekla Structures v.10.0</p>
   <ul>
-  <li>Lesson 01 - <a href="https://bit.ly/3CqlpZS" target="_blank">Basic Modeling</a></li>
-  <li>Lesson 02 - <a href="https://bit.ly/39jH89h" target="_blank">Creating System Connections</a></li>
-  <li>Lesson 03 - <a href="https://bit.ly/3lFUfaz" target="_blank">Creating Interactive Connections</a></li>
-  <li>Lesson 04 - <a href="https://bit.ly/3Crj011" target="_blank">Custom Components</a></li>
-  <li>Lesson 05 - <a href="https://bit.ly/2ZfsUEI" target="_blank">Basic Modeling 2</a></li>
-  <li>Lesson 06 - <a href="https://bit.ly/3Au4Awv" target="_blank">Catalog</a></li>
-  <li>Lesson 07 - <a href="https://bit.ly/3AwMQAQ" target="_blank">Steel Detailing</a></li>
-  <li>Lesson 08 - <a href="https://bit.ly/3tW5i2Y" target="_blank">Concrete Detailing</a></li>
-  <li>Lesson 09 - <a href="https://bit.ly/2XKoJQJ" target="_blank">Numbering and Reports</a></li>
-  <li>Lesson 10 - <a href="https://bit.ly/3zqbkdA" target="_blank">Principles of Working with Drawings</a></li>
-  <li>Lesson 11 - <a href="https://bit.ly/3tSpDpW" target="_blank">Assembly and Single Part Drawings</a></li>
-  <li>Lesson 12 - <a href="https://bit.ly/2ZeJTXN" target="_blank">Cast Unit Drawings</a></li>
-  <li>Lesson 13 - <a href="https://bit.ly/3hO7k0s" target="_blank">GA Drawing</a></li>
-  <li>Lesson 14 - <a href="https://bit.ly/3ApkuZ5" target="_blank">Multi-drawing and Multinumbering</a></li>
-  <li>Lesson 15 - <a href="https://bit.ly/2VTgnp1" target="_blank">Collaboration</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-01-basic-modeling.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 1 Basic Modeling</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-02-creating-system-connections.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 2 Creating System Connections</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-03-creating-interactive-connections.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 3 Creating Interactive Connections</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-04-custom-components.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 4 Custom Components</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-05-basic-modeling-2.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 5 Basic Modeling 2</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-06-catalog.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 6 Catalog</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-07-steel-detailing.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 7 Steel Detailing</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-08-concrete-detailing.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 8 Concrete Detailing</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-09-numbering-and-reports.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 9 Numbering and Reports</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-10-principles-of-working-with-drawings.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 10 Principles of Working with Drawings</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-11-assembly-and-single-part-drawings.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 11 Assembly and Single Part Drawings</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-12-cast-unit-drawings.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 12 Cast Unit Drawings</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-13-ga-drawing.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 13 GA Drawing</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-14-multi-drawing-and-multinumbering.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 14 Multi-drawing and Multinumbering</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-15-collaboration.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 15 Collaboration</a></li>
+  <li><a href="{{'/download/tekla-structures-basic-training-lesson-17-analysis-and-design.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 17 Analysis and Design</a></li>
   </ul>
 
+<p>Tutorials: Tekla Structures v.13.1</p>  
+<ul>
+<li><a href="{{'/download/tekla-full-detailing-basic-training-modeling.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Full Detailing Basic Training Modeling</a></li>
+</ul>
+
+<p>Updated: 2025-02-13</p>
+
+<p><em></em>Note: PDF files are sourced through google search. Sharing for educational purposes only. No Copyright infringement intended.</p>em></p>
