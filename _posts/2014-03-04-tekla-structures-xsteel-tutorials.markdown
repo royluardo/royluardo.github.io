@@ -3,8 +3,8 @@ layout:     post
 title:      "Tekla Structures (Xsteel) Tutorials"
 date:       2014-03-04 04:30:12
 author:     "Royzkie"
-header-img: "/img/contact-bg.jpg"
-background: "/img/contact-bg.jpg"
+##header-img: "/img/contact-bg.jpg"
+##background: "/img/contact-bg.jpg"
 tags:
     - Tutorial
     - Reference
