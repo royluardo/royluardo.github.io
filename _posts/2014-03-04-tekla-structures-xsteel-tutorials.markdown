@@ -52,9 +52,36 @@ tags:
   <li><a href="{{'/download/tekla-structures-basic-training-lesson-17-analysis-and-design.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Structures Basic Training - Lesson 17 Analysis and Design</a></li>
   </ul>
 
+<p>Tutorials: Tekla Structures v.11.0</p>
+<ul>
+<li><a href="https://tinyurl.com/93z9e6ua" target="_blank">Tekla Structures 11.0 Basic Training - Profiles and Materials</a></li>
+<li><a href="https://tinyurl.com/yptdmzrx" target="_blank">Tekla Structures 11.0 Basic Training - Applied Precast Concrete  Detailing</a></li>
+<li><a href="https://tinyurl.com/2cjazvyb" target="_blank">Tekla Structures 11.0 Basic Training - Applied Steel Detailing</a></li>
+<li><a href="https://tinyurl.com/4prumt7k" target="_blank">Tekla Structures 11.0 Basic Training - Numbering and Reports</a></li>
+<li><a href="https://tinyurl.com/ybbe8uwf" target="_blank">Tekla Structures 11.0 Basic Training - Template Editor</a></li>
+<li><a href="https://tinyurl.com/bp6cbj32" target="_blank">Tekla Structures 11.0 Basic Training - Principles of Drawings</a></li>
+<li><a href="https://tinyurl.com/bdstcsva" target="_blank">Tekla Structures 11.0 Basic Training - Assembly and Single Part Drawings</a></li>
+<li><a href="https://tinyurl.com/tc9brs58" target="_blank">Tekla Structures 11.0 Basic Training - Cast Unit Drawings</a></li>
+<li><a href="https://tinyurl.com/mtav8xku" target="_blank">Tekla Structures 11.0 Basic Training - General Arrangement Drawings</a></li>
+<li><a href="https://tinyurl.com/54wby9cn" target="_blank">Tekla Structures 11.0 Basic Training - Project Manager</a></li>
+</ul>
+
+<p>Tutorials: Tekla Structures v.12.0</p>
+<ul>
+<li><a href="https://tinyurl.com/38cpttra" target="_blank">Tekla Structures 12.0 Basic Training - Basic Modeling 1</a></li>
+<li><a href="https://tinyurl.com/ycy3ybvz" target="_blank">Tekla Structures 12.0 Basic Training - System Components for Precast Concrete</a></li>
+<li><a href="https://tinyurl.com/4ks9k4w6" target="_blank">Tekla Structures 12.0 Basic Training - Creating System Components for Steel</a></li>
+<li><a href="https://tinyurl.com/yc6ddd74" target="_blank">Tekla Structures 12.0 Basic Training - Interactive Precast Concrete Detailing</a></li>
+<li><a href="https://tinyurl.com/2tcb5dz6" target="_blank">Tekla Structures 12.0 Basic Training - Interactive Steel Detailing</a></li>
+<li><a href="https://tinyurl.com/mr2j8v63" target="_blank">Tekla Structures 12.0 Basic Training - Custom Components for Precast Concrete</a></li>
+<li><a href="https://tinyurl.com/yv75z4jr" target="_blank">Tekla Structures 12.0 Basic Training - Custom Components for Steel</a></li>
+<li><a href="https://tinyurl.com/4kkfc44y" target="_blank">Tekla Structures 12.0 Basic Training - Basic Modeling 2</a></li>
+</ul>
+
 <p>Tutorials: Tekla Structures v.13.1</p>  
 <ul>
 <li><a href="{{'/download/tekla-full-detailing-basic-training-modeling.pdf?v=0X' | append: version | relative_url }}" target="_blank">Tekla Full Detailing Basic Training Modeling</a></li>
+<li><a href="https://tinyurl.com/5n6rdnyh" target="_blank">Tekla Structures 13 - Keyboard Shortcuts</a></li>
 </ul>
 
 <p>Updated: 2025-02-13</p>
