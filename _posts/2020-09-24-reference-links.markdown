@@ -2,7 +2,7 @@
 layout:     post
 title:      "Reference Links (Updated Regularly)"
 date:       2020-09-24 00:00:00
-author:     "Royzkie"
+author:     "royzkie"
 ##header-img: "/img/post-bg-rwd.jpg"
 ##background: "/img/post-bg-rwd.jpg"
 tags:
