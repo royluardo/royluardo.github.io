@@ -3,7 +3,7 @@ layout: post
 title: "Prevent your PC from going to sleep"
 subtitle: "No Sleep PC"
 date: 2025-01-23 16:33:00
-author: "Royzkie"
+author: "royzkie"
 ##header-img: "/img/post-bg-unix-linux.jpg"
 ##background: "/img/post-bg-unix-linux.jpg"
 tags:
