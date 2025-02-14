@@ -3,7 +3,7 @@ layout: post
 title: "Create beam and girder sections for AutoCAD - AutoLISP version"
 subtitle: "a continuation to my beam and girder section maker"
 date: 2021-09-20 00:00:00
-author: "Royzkie"
+author: "royzkie"
 ##background: "/img/post-bg-unix-linux.jpg"
 ##header-img: "/img/post-bg-unix-linux.jpg"
 tags:
