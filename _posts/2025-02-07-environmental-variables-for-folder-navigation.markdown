@@ -3,7 +3,7 @@ layout: post
 title: "Environmental Variables For Folder Navigation"
 subtitle: "Environmental Variables"
 date: 2025-02-06 14:30:00
-author: "Royzkie"
+author: "royzkie"
 ##header-img: "/img/post-bg-unix-linux.jpg"
 ##background: "/img/post-bg-unix-linux.jpg"
 tags:
