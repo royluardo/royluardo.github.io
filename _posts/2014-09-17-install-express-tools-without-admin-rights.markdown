@@ -2,7 +2,7 @@
 layout: post
 title:  "How to install Express Tools without admin rights"
 date:   2014-09-17 10:30:10
-author: "Royzkie"
+author: "royzkie"
 ##header-img: "/img/post-bg-rwd.jpg"
 ##background: "/img/post-bg-rwd.jpg"
 tags:
