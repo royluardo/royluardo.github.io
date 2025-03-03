@@ -35,5 +35,5 @@ tags:
 <p> </p>
 <p>Additional:</p>
 <p>I recently found out that shell can also open folder locations.</p>
-<p>Typing Shell:Startup to the windows explorer address bar opens up the start up folder. You can paste a link or any executables here and it will run on windows startup.</p>
+<p>Typing "Shell:Startup" to the windows explorer address bar opens up the start up folder. You can paste a link or any executables here and it will run on windows startup.</p>
 
