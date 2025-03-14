@@ -3,6 +3,8 @@ layout: post
 title: "Add "Sleep" and "Lock" button to the taskbar"
 subtitle: "One click lock / sleep"
 date: 2025-03-12 08:30:00
+##header-img: "/img/post-bg-unix-linux.jpg"
+##background: "/img/post-bg-unix-linux.jpg"
 tags:
     - Tutorial
     - Reference
