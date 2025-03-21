@@ -11,10 +11,6 @@ p {
     a {
         text-decoration: underline;
         text-decoration-style: dotted;
-        &:hover {
-            color: $primary;
-            text-decoration-style: solid;
-        }
     }
 }
 
@@ -30,12 +26,12 @@ h6 {
 a {
     color: $gray-900;
     text-decoration: underline;
-    text-decoration-style: dotted;
+
 
     &:focus,
     &:hover {
         color: $primary;
-        text-decoration-style: solid;
+
     }
 }
 
