@@ -43,5 +43,6 @@ tags:
 <p>Downloads</p>
 
 <ul>
-<li><a href="" target="_blank">Publish name views</a></li>
+    {% assign version =  "now" | date: "%Y%m%d%H%M"  %}
+<li><a href="{{'/download/ZPRINT.7z?v=0X' | append: version | relative_url }}" target="_blank">Publish name views</a></li>
 </ul>
