@@ -40,3 +40,8 @@ tags:
 <li><a href="https://simple-blogger-tips.blogspot.sg/2011/01/how-to-remove-attribution-widget-on.html" target="_blank">How to Remove Attribution Widget on Blogger.com</a></li>
 </ul>
 
+<p>Downloads</p>
+
+<ul>
+<li><a href="" target="_blank">Publish name views</a></li>
+</ul>
